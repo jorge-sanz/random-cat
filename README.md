@@ -1,7 +1,7 @@
 # random-cat
 An app that shows cat gifs randomly. I made this following this Docker tutorial: [Developer - Beginner Linux Containers](http://training.docker.com/category/self-paced-online).
 
-## How to run it in local
+## Development
 ### Prerequisites
 - [Docker](https://www.docker.com/products/overview) - software containerization platform.
 
